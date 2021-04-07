@@ -7,7 +7,7 @@
 }
 html,body{
   display: grid;
-  height: 70%;
+  height: 100%;
   place-items: center;
   text-align: center;
   
